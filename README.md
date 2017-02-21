@@ -1,2 +1,3 @@
 # hello-world
-Just another epository
+
+Can you tell me what's the function of GitHub?
